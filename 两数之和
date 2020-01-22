@@ -20,4 +20,5 @@ class Solution(object):
                 return [hashmap[another_num], index]
             hashmap[num] = index
         return None
+
 ```
