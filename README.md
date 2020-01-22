@@ -1,3 +1,2 @@
 # leecode
-...
-asdd
+Daily practice
