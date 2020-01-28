@@ -20,4 +20,4 @@ class Solution(object):
             all_max = max(all_max, current_max)
 
         return all_max
- ```
+```
