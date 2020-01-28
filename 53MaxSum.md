@@ -5,7 +5,8 @@
 解释: 连续子数组 [4,-1,2,1] 的和最大，为 6。
 ```
 思路：贪心算法。从前向后，遍历最大的序列和。需要一个当前的最大值和最终的最大值。遍历更新。
-````python
+
+```python
 class Solution(object):
     def maxSubArray(self, nums):
         """
