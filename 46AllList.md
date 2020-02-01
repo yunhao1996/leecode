@@ -1,5 +1,5 @@
-'''python
-class Solution:
+```python
+classSolution:
     def permute(self, nums):
         """
         :type nums: List[int]
@@ -22,6 +22,6 @@ class Solution:
         output = []
         backtrack()
         return output
+```
 
 
-'''
